@@ -1,4 +1,4 @@
-﻿Machine-Learning-Ensemble-Playground
+Machine_Learning_Ensemble_Playground
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -69,3 +69,4 @@ This project is for educational and research purposes. Please cite appropriately
 
 
 *Contributions and feedback are welcome. Feel free to explore the notebooks and experiment with different ensemble configurations.*
+
